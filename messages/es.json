@@ -1,0 +1,265 @@
+{
+  "Home": {
+    "meta": {
+      "title": "Bubld Wash | Profesionales freelance de autolavado",
+      "description": "Registra tu servicio de autolavado móvil. Obtén reservas constantes, horarios flexibles y pagos rápidos."
+    },
+    "skip": "Saltar al contenido",
+    "nav": {
+      "aria": "Principal",
+      "brand": "Bubld Wash",
+      "how": "Como funciona",
+      "about": "Sobre nosotros",
+      "benefits": "Beneficios",
+      "pricing": "Ganancias",
+      "faq": "Preguntas",
+      "cta": "Postular",
+      "language": "Idioma"
+    },
+    "hero": {
+      "eyebrow": "Freelancers de autolavado movil",
+      "title": "Sé un Bublr",
+      "subtitle": "Unete a Bubld Wash para recibir trabajos cercanos, gestionar tu agenda y cobrar rapido con tarifas claras.",
+      "primaryCta": "Postula en 5 minutos",
+      "secondaryCta": "Ver como funciona",
+      "trust": "Confiado por profesionales independientes en la ciudad"
+    },
+    "stats": {
+      "title": "Resumen de la plataforma",
+      "active": "Profesionales activos",
+      "activeValue": "500+",
+      "rating": "Calificacion promedio",
+      "ratingValue": "4.9 / 5",
+      "payouts": "Pagos rapidos",
+      "payoutsValue": "Dentro de 24 horas"
+    },
+    "benefits": {
+      "title": "Por que los freelancers eligen Bubld",
+      "subtitle": "Todo lo que necesitas para mantenerte con reservas, verte profesional y fidelizar clientes.",
+      "items": [
+        {
+          "title": "Reservas locales constantes",
+          "body": "Recibe clientes cercanos para ahorrar tiempo en traslados y ganar mas."
+        },
+        {
+          "title": "Tarifas claras y justas",
+          "body": "Sin cobros mensuales. Pagas una tarifa simple solo al completar un trabajo."
+        },
+        {
+          "title": "Perfil profesional",
+          "body": "Muestra tu trabajo, certificaciones y opiniones con un perfil pulido."
+        },
+        {
+          "title": "Soporte cuando lo necesitas",
+          "body": "Un equipo dedicado ayuda con cambios de horario y preguntas de clientes."
+        }
+      ]
+    },
+    "how": {
+      "title": "Como funciona",
+      "subtitle": "Postula una vez, recibe aprobacion y empieza a tomar trabajos en tu zona.",
+      "note": "Tiempo promedio de aprobacion: 48 horas",
+      "steps": [
+        {
+          "title": "Envia tu perfil",
+          "body": "Comparte tu experiencia, zona de servicio y paquetes que ofreces."
+        },
+        {
+          "title": "Verificacion",
+          "body": "Confirmamos tu identidad y estandares de seguridad para mantener la calidad."
+        },
+        {
+          "title": "Acepta trabajos",
+          "body": "Elige los trabajos que se ajusten a tu calendario y cobra rapido al terminar."
+        }
+      ]
+    },
+    "services": {
+      "title": "Servicios mas solicitados",
+      "subtitle": "Llega preparado para los trabajos que mejor pagan en tu ciudad.",
+      "items": [
+        "Lavado exterior",
+        "Detalle completo",
+        "Limpieza interior profunda",
+        "Proteccion de pintura",
+        "Limpieza de flotas",
+        "Lavados por suscripcion"
+      ],
+      "highlightTitle": "Impulsa clientes recurrentes",
+      "highlightBody": "Las suscripciones y cuentas de flotas mantienen tu agenda llena con ingresos predecibles.",
+      "highlightStat": "Los mejores profesionales reportan 35% de reservas recurrentes"
+    },
+    "pricing": {
+      "title": "Ganancias claras",
+      "subtitle": "Conserva mas de tus ingresos con una tarifa simple.",
+      "cardLabel": "Tarifa de plataforma",
+      "cardValue": "10%",
+      "cardNote": "Solo despues de un trabajo completado",
+      "items": [
+        {
+          "title": "Sin suscripcion mensual",
+          "body": "Empieza a ganar sin costos iniciales ni cargos ocultos."
+        },
+        {
+          "title": "Propinas instantaneas",
+          "body": "Los clientes pueden dejar propina en la app y conservas el 100%."
+        },
+        {
+          "title": "Pagos transparentes",
+          "body": "Ve el detalle de tus ingresos y fechas de transferencia en un solo lugar."
+        },
+        {
+          "title": "Precios flexibles",
+          "body": "Define tus propios niveles de servicio segun tu mercado."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Pensado para profesionales independientes",
+      "subtitle": "Lo que dicen despues de unirse a Bubld Wash",
+      "items": [
+        {
+          "quote": "La app me mantiene con reservas sin perseguir clientes en redes sociales.",
+          "name": "Jordan M.",
+          "role": "Detailer movil"
+        },
+        {
+          "quote": "Los pagos son rapidos y las herramientas de agenda me ahorran horas cada semana.",
+          "name": "Luis R.",
+          "role": "Especialista en flotas"
+        },
+        {
+          "quote": "Me encantan los clientes recurrentes. Mi calendario es mas predecible.",
+          "name": "Priya K.",
+          "role": "Autolavador independiente"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "items": [
+        {
+          "q": "Necesito mi propio equipo?",
+          "a": "Si. Los profesionales llevan sus propias herramientas y suministros para un servicio consistente."
+        },
+        {
+          "q": "Como recibo mis pagos?",
+          "a": "Los pagos se envian a tu banco dentro de 24 horas despues de cada trabajo."
+        },
+        {
+          "q": "Puedo trabajar medio tiempo?",
+          "a": "Claro. Acepta solo los trabajos que se ajusten a tu horario y ubicacion."
+        },
+        {
+          "q": "En que ciudades opera?",
+          "a": "Estamos expandiendo cada semana. Envia tu ciudad y te avisamos cuando este disponible."
+        }
+      ]
+    },
+    "apply": {
+      "title": "Postula para unirte a la red de profesionales",
+      "subtitle": "Comparte tus datos y nuestro equipo te contactara con los siguientes pasos.",
+      "bullets": [
+        "Revision completa del perfil",
+        "Lineamientos de seguridad y calidad",
+        "Insight de demanda local",
+        "Acceso a alertas de trabajos"
+      ],
+      "form": {
+        "title": "Formulario de postulacion",
+        "name": "Nombre completo",
+        "email": "Correo electronico",
+        "phone": "Numero de telefono",
+        "city": "Ciudad",
+        "experience": "Cuentanos tu experiencia",
+        "submit": "Enviar postulacion",
+        "note": "Sanitizamos y revisamos cada postulacion antes de aprobarla."
+      }
+    },
+    "cta": {
+      "title": "Listo para empezar?",
+      "subtitle": "Unete hoy y vive el mejor servicio.",
+      "button": "Postular ahora"
+    },
+    "footer": {
+      "brand": "Bubld Wash",
+      "tagline": "Plataforma de autolavado freelance",
+      "contact": "partners@bubld.com",
+      "location": "Atendiendo areas metropolitanas en EE.UU."
+    }
+  },
+  "About": {
+    "meta": {
+      "title": "Sobre Bubld Wash | Potenciando Profesionales Independientes",
+      "description": "Conoce nuestra historia. Conectamos profesionales de autolavado independientes con clientes que necesitan servicios confiables y profesionales."
+    },
+    "hero": {
+      "title": "Construyendo una mejor plataforma para lavadores independientes",
+      "subtitle": "En Bubld Wash, creemos que los profesionales independientes merecen herramientas que respalden su éxito, flexibilidad y crecimiento financiero."
+    },
+    "story": {
+      "title": "Nuestro Viaje",
+      "items": [
+        {
+          "title": "El Comienzo",
+          "body": "Bubld Wash fue fundada por profesionales de autolavado independientes frustrados con plataformas complicadas y tarifas injustas. Decidimos construir la plataforma que queríamos usar: transparente, justa y enfocada en nuestro éxito."
+        },
+        {
+          "title": "Nuestra Misión",
+          "body": "Hoy, nos enorgullece apoyar a cientos de lavadores independientes en las principales áreas metropolitanas. Cada característica que construimos, cada decisión que tomamos, está guiada por una sola pregunta: ¿Cómo ayuda esto a nuestros lavadores a ganar más y trabajar menos?"
+        },
+        {
+          "title": "Qué Nos Diferencia",
+          "body": "Sin tarifas ocultas. Sin contratos a largo plazo. Solo tarifas directas, coincidencia de trabajos real, y pagos entregados dentro de 24 horas. Tratamos a nuestros lavadores como socios, no como contratistas."
+        }
+      ]
+    },
+    "mission": {
+      "title": "Nuestra Misión y Visión",
+      "items": [
+        {
+          "title": "Nuestra Misión",
+          "body": "Empoderar a profesionales independientes de autolavado con la tecnología, oportunidades y apoyo que necesitan para construir negocios prósperos y sostenibles."
+        },
+        {
+          "title": "Nuestra Visión",
+          "body": "Un futuro donde los lavadores independientes tengan opción, control y asociación genuina en las plataformas con las que trabajan."
+        }
+      ]
+    },
+    "values": {
+      "title": "Valores Principales",
+      "items": [
+        {
+          "title": "Transparencia",
+          "body": "Sin sorpresas. Tarifas claras, comunicación honesta, seguimiento en tiempo real."
+        },
+        {
+          "title": "Pago Justo",
+          "body": "Tarifas competitivas que respetan tu tiempo y habilidades."
+        },
+        {
+          "title": "Flexibilidad",
+          "body": "Trabaja a tu manera. Elige trabajos, establece tu horario, construye tu negocio."
+        },
+        {
+          "title": "Confianza",
+          "body": "Somos socios en tu éxito, no obstáculos para él."
+        },
+        {
+          "title": "Comunidad",
+          "body": "Apoyo, recursos y conexiones con otros lavadores profesionales."
+        },
+        {
+          "title": "Innovación",
+          "body": "Mejorando constantemente herramientas y características para ayudarte a ganar más."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para unirse a la comunidad Bubld?",
+      "subtitle": "Únete a nosotros y comienza a recibir trabajos de autolavado cercanos: sin tarifas, sin contratos, solo pago justo y oportunidad real.",
+      "button": "Postular ahora"
+    }
+  }
+}
