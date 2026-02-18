@@ -1,0 +1,265 @@
+{
+  "Home": {
+    "meta": {
+      "title": "Bubld Wash | Pros freelance de lavagem auto",
+      "description": "Cadastre se como profissional de lavagem auto movel. Receba trabalhos, horarios flexiveis e pagamentos rapidos."
+    },
+    "skip": "Pular para o conteudo",
+    "nav": {
+      "aria": "Principal",
+      "brand": "Bubld Wash",
+      "how": "Como funciona",
+      "about": "Sobre nós",
+      "benefits": "Beneficios",
+      "pricing": "Ganhos",
+      "faq": "FAQ",
+      "cta": "Candidatar",
+      "language": "Idioma"
+    },
+    "hero": {
+      "eyebrow": "Freelancers de lavagem auto movel",
+      "title": "Seja um Bubblr",
+      "subtitle": "Junte se a Bubld Wash para receber trabalhos proximos, gerenciar sua agenda e receber rapido com taxas claras.",
+      "primaryCta": "Candidatar em 5 minutos",
+      "secondaryCta": "Ver como funciona",
+      "trust": "Confiado por profissionais independentes na cidade"
+    },
+    "stats": {
+      "title": "Resumo da plataforma",
+      "active": "Pros ativos",
+      "activeValue": "500+",
+      "rating": "Nota media",
+      "ratingValue": "4.9 / 5",
+      "payouts": "Pagamentos rapidos",
+      "payoutsValue": "Em 24 horas"
+    },
+    "benefits": {
+      "title": "Por que os freelancers escolhem Bubld",
+      "subtitle": "Tudo para manter agenda cheia, parecer profissional e fidelizar clientes.",
+      "items": [
+        {
+          "title": "Trabalhos locais constantes",
+          "body": "Receba clientes proximos para ganhar mais e dirigir menos."
+        },
+        {
+          "title": "Taxas simples e justas",
+          "body": "Sem mensalidade. Pague apenas uma taxa apos cada trabalho."
+        },
+        {
+          "title": "Perfil profissional",
+          "body": "Mostre seu trabalho, certificacoes e avaliacoes."
+        },
+        {
+          "title": "Suporte quando precisar",
+          "body": "Equipe dedicada ajuda com mudancas e duvidas."
+        }
+      ]
+    },
+    "how": {
+      "title": "Como funciona",
+      "subtitle": "Candidate se, seja aprovado e comece a trabalhar na sua area.",
+      "note": "Tempo medio de aprovacao: 48 horas",
+      "steps": [
+        {
+          "title": "Envie seu perfil",
+          "body": "Compartilhe experiencia, area de servico e pacotes."
+        },
+        {
+          "title": "Verificacao",
+          "body": "Confirmamos identidade e padroes de qualidade."
+        },
+        {
+          "title": "Aceite trabalhos",
+          "body": "Escolha trabalhos que cabem na sua agenda."
+        }
+      ]
+    },
+    "services": {
+      "title": "Servicos mais pedidos",
+      "subtitle": "Chegue pronto para os trabalhos que mais pagam.",
+      "items": [
+        "Lavagem externa",
+        "Detalhe completo",
+        "Limpeza interna profunda",
+        "Protecao de pintura",
+        "Limpeza de frotas",
+        "Lavagens por assinatura"
+      ],
+      "highlightTitle": "Aumente recorrencia",
+      "highlightBody": "Assinaturas e frotas deixam a agenda cheia.",
+      "highlightStat": "Os melhores pros veem 35% de retorno"
+    },
+    "pricing": {
+      "title": "Ganhos claros",
+      "subtitle": "Fique com mais com uma taxa simples.",
+      "cardLabel": "Taxa da plataforma",
+      "cardValue": "10%",
+      "cardNote": "Somente apos um trabalho concluido",
+      "items": [
+        {
+          "title": "Sem mensalidade",
+          "body": "Comece sem custos iniciais ou taxas escondidas."
+        },
+        {
+          "title": "Gorjetas instantaneas",
+          "body": "Clientes podem dar gorjeta e voce fica com 100%."
+        },
+        {
+          "title": "Pagamentos transparentes",
+          "body": "Veja ganhos e transferencias em um so lugar."
+        },
+        {
+          "title": "Preco flexivel",
+          "body": "Defina seus niveis de servico por mercado."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Feito para independentes",
+      "subtitle": "O que dizem nossos pros",
+      "items": [
+        {
+          "quote": "O app me mantem ocupado sem correr atras de clientes.",
+          "name": "Jordan M.",
+          "role": "Detailer movel"
+        },
+        {
+          "quote": "Pagamentos rapidos e agenda simples toda semana.",
+          "name": "Luis R.",
+          "role": "Especialista em frotas"
+        },
+        {
+          "quote": "Clientes recorrentes deixam tudo mais previsivel.",
+          "name": "Priya K.",
+          "role": "Lavadora independente"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "q": "Preciso do meu proprio equipamento?",
+          "a": "Sim. Profissionais trazem suas ferramentas para um servico consistente."
+        },
+        {
+          "q": "Como recebo meus pagamentos?",
+          "a": "Os pagamentos chegam em 24 horas apos cada trabalho."
+        },
+        {
+          "q": "Posso trabalhar meio periodo?",
+          "a": "Claro. Aceite apenas trabalhos que cabem no seu horario."
+        },
+        {
+          "q": "Quais cidades estao disponiveis?",
+          "a": "Estamos expandindo toda semana. Envie sua cidade e avisamos."
+        }
+      ]
+    },
+    "apply": {
+      "title": "Candidate se para entrar na rede",
+      "subtitle": "Compartilhe seus dados e entraremos em contato.",
+      "bullets": [
+        "Revisao completa do perfil",
+        "Regras de seguranca e qualidade",
+        "Insights de demanda local",
+        "Acesso a alertas de trabalhos"
+      ],
+      "form": {
+        "title": "Formulario de candidatura",
+        "name": "Nome completo",
+        "email": "Email",
+        "phone": "Telefone",
+        "city": "Cidade",
+        "experience": "Conte sua experiencia",
+        "submit": "Enviar candidatura",
+        "note": "Sanitizamos e revisamos cada candidatura antes de aprovar."
+      }
+    },
+    "cta": {
+      "title": "Pronto para comecar?",
+      "subtitle": "Junte se hoje e experimente o melhor servico.",
+      "button": "Candidatar agora"
+    },
+    "footer": {
+      "brand": "Bubld Wash",
+      "tagline": "Plataforma freelance de lavagem auto",
+      "contact": "partners@bubld.com",
+      "location": "Atendendo areas metro nos EUA"
+    }
+  },
+  "About": {
+    "meta": {
+      "title": "Sobre Bubld Wash | Capacitando Profissionais Independentes",
+      "description": "Conheça nossa história. Conectamos profissionais qualificados autônomos de lavagem de carros com clientes que precisam de serviço confiável e profissional."
+    },
+    "hero": {
+      "title": "Construindo uma plataforma melhor para lavadores independentes",
+      "subtitle": "Na Bubld Wash, acreditamos que profissionais independentes merecem ferramentas que apoiem seu sucesso, flexibilidade e crescimento financeiro."
+    },
+    "story": {
+      "title": "Nossa Jornada",
+      "items": [
+        {
+          "title": "O Começo",
+          "body": "Bubld Wash foi fundada por profissionais independentes de lavagem de carros frustrados com plataformas complicadas e taxas injustas. Decidimos construir a plataforma que queríamos usar - transparente, justa e focada em nosso sucesso."
+        },
+        {
+          "title": "Nossa Missão",
+          "body": "Hoje, temos orgulho de apoiar centenas de lavadores independentes nas principais áreas metropolitanas. Cada recurso que construímos, cada decisão que tomamos, é guiada por uma única pergunta: Como ajuda nossos lavadores a ganhar mais e trabalhar menos?"
+        },
+        {
+          "title": "O Que Nos Diferencia",
+          "body": "Sem taxas ocultas. Sem contratos de longo prazo. Apenas taxas diretas, correspondência real de trabalho e pagamentos entregues em 24 horas. Tratamos nossos lavadores como parceiros, não como contratados."
+        }
+      ]
+    },
+    "mission": {
+      "title": "Nossa Missão e Visão",
+      "items": [
+        {
+          "title": "Nossa Missão",
+          "body": "Capacitar profissionais independentes de lavagem de carros com a tecnologia, oportunidades e suporte necessários para construir negócios prósperos e sustentáveis."
+        },
+        {
+          "title": "Nossa Visão",
+          "body": "Um futuro onde os lavadores independentes tenham escolha, controle e parceria genuína nas plataformas com as quais trabalham."
+        }
+      ]
+    },
+    "values": {
+      "title": "Valores Principais",
+      "items": [
+        {
+          "title": "Transparência",
+          "body": "Sem surpresas. Taxas claras, comunicação honesta, rastreamento em tempo real."
+        },
+        {
+          "title": "Remuneração Justa",
+          "body": "Taxas competitivas que respeitam seu tempo e habilidades."
+        },
+        {
+          "title": "Flexibilidade",
+          "body": "Trabalhe do seu jeito. Escolha trabalhos, defina seu horário, construa seu negócio."
+        },
+        {
+          "title": "Confiança",
+          "body": "Somos parceiros em seu sucesso, não obstáculos para ele."
+        },
+        {
+          "title": "Comunidade",
+          "body": "Suporte, recursos e conexões com outros lavadores profissionais."
+        },
+        {
+          "title": "Inovação",
+          "body": "Melhorando continuamente ferramentas e recursos para ajudá-lo a ganhar mais."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pronto para se juntar à comunidade Bubld?",
+      "subtitle": "Junte-se a nós e comece a receber trabalhos de lavagem de carros locais - sem taxas, sem contratos, apenas remuneração justa e oportunidade real.",
+      "button": "Candidatar agora"
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "Home": {
+    "meta": {
+      "title": "Bubld Wash | Freelance Car Wash Pros",
+      "description": "Register as a mobile car wash pro. Get steady bookings, flexible hours, and fast payouts."
+    },
+    "skip": "Skip to content",
+    "nav": {
+      "aria": "Primary",
+      "brand": "Bubld Wash",
+      "how": "How it works",
+      "about": "About Us",
+      "benefits": "Benefits",
+      "pricing": "Earnings",
+      "faq": "FAQ",
+      "cta": "Apply now",
+      "language": "Language"
+    },
+    "hero": {
+      "eyebrow": "Mobile car wash freelancers",
+      "title": "Be a Bubblr",
+      "subtitle": "Join Bubld Wash to receive nearby jobs, manage your schedule, and get paid fast with transparent fees.",
+      "primaryCta": "Apply in 5 minutes",
+      "secondaryCta": "See how it works",
+      "trust": "Trusted by independent washers across the city"
+    },
+    "stats": {
+      "title": "Platform snapshot",
+      "active": "Active pros",
+      "activeValue": "500+",
+      "rating": "Average rating",
+      "ratingValue": "4.9 / 5",
+      "payouts": "Fast payouts",
+      "payoutsValue": "Within 24 hours"
+    },
+    "benefits": {
+      "title": "Why freelance washers choose Bubld",
+      "subtitle": "Everything you need to stay booked, look professional, and keep customers coming back.",
+      "items": [
+        {
+          "title": "Steady local bookings",
+          "body": "Get matched with customers nearby so you spend less time driving and more time earning."
+        },
+        {
+          "title": "Fair, simple fees",
+          "body": "No monthly charges. Pay a clear platform fee only when you complete a job."
+        },
+        {
+          "title": "Professional profile",
+          "body": "Showcase your work, certifications, and reviews with a polished public profile."
+        },
+        {
+          "title": "Support when you need it",
+          "body": "Dedicated ops support helps you handle schedule changes and customer questions."
+        }
+      ]
+    },
+    "how": {
+      "title": "How it works",
+      "subtitle": "Apply once, get approved, and start taking jobs in your area.",
+      "note": "Average approval time: 48 hours",
+      "steps": [
+        {
+          "title": "Submit your profile",
+          "body": "Share your experience, service area, and the car wash packages you offer."
+        },
+        {
+          "title": "Get verified",
+          "body": "We confirm your identity and safety standards to keep quality high."
+        },
+        {
+          "title": "Accept jobs",
+          "body": "Choose the jobs that fit your calendar and get paid quickly after completion."
+        }
+      ]
+    },
+    "services": {
+      "title": "Services customers request most",
+      "subtitle": "Show up ready for the jobs that pay best in your city.",
+      "items": [
+        "Exterior wash",
+        "Full detail",
+        "Interior deep clean",
+        "Paint protection",
+        "Fleet cleanups",
+        "Subscription washes"
+      ],
+      "highlightTitle": "Boost repeat business",
+      "highlightBody": "Subscriptions and fleet accounts keep your calendar full with predictable income.",
+      "highlightStat": "Top pros report 35% repeat bookings"
+    },
+    "pricing": {
+      "title": "Earnings that make sense",
+      "subtitle": "Keep more of what you earn with a simple fee structure.",
+      "cardLabel": "Platform fee",
+      "cardValue": "10%",
+      "cardNote": "Only after a completed job",
+      "items": [
+        {
+          "title": "No monthly subscription",
+          "body": "Start earning right away without upfront costs or hidden charges."
+        },
+        {
+          "title": "Instant tips",
+          "body": "Customers can add tips in-app, and you keep 100% of them."
+        },
+        {
+          "title": "Transparent payouts",
+          "body": "See your earnings breakdown and transfer schedule in one place."
+        },
+        {
+          "title": "Flexible pricing",
+          "body": "Set your own service tiers so you stay competitive in your market."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Built for independent pros",
+      "subtitle": "What workers say after joining Bubld Wash",
+      "items": [
+        {
+          "quote": "The app keeps me booked without having to chase customers on social media.",
+          "name": "Jordan M.",
+          "role": "Mobile detailer"
+        },
+        {
+          "quote": "Payouts are fast and the schedule tools save me hours every week.",
+          "name": "Luis R.",
+          "role": "Fleet wash specialist"
+        },
+        {
+          "quote": "I love the recurring clients. My calendar feels predictable again.",
+          "name": "Priya K.",
+          "role": "Independent washer"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions, answered",
+      "items": [
+        {
+          "q": "Do I need my own equipment?",
+          "a": "Yes. Pros bring their own tools and supplies to deliver a consistent on-site service."
+        },
+        {
+          "q": "How do I get paid?",
+          "a": "Payouts are sent to your bank within 24 hours after each completed job."
+        },
+        {
+          "q": "Can I work part time?",
+          "a": "Absolutely. Accept only the jobs that fit your schedule and location."
+        },
+        {
+          "q": "What cities are supported?",
+          "a": "We are expanding weekly. Submit your city and we will notify you when it launches."
+        }
+      ]
+    },
+    "apply": {
+      "title": "Apply to join the pro network",
+      "subtitle": "Share your details and our team will reach out with next steps.",
+      "bullets": [
+        "Complete profile review",
+        "Safety and quality guidelines",
+        "Local demand insights",
+        "Access to job notifications"
+      ],
+      "form": {
+        "title": "Application form",
+        "name": "Full name",
+        "email": "Email address",
+        "phone": "Phone number",
+        "city": "City",
+        "experience": "Tell us about your experience",
+        "submit": "Submit application",
+        "note": "We sanitize and review every application before approval."
+      }
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Join us today and experience the best services.",
+      "button": "Apply now"
+    },
+    "footer": {
+      "brand": "Bubld Wash",
+      "tagline": "Freelance car wash platform",
+      "contact": "partners@bubld.com",
+      "location": "Serving metro areas across the US"
+    }
+  },
+  "About": {
+    "meta": {
+      "title": "About Bubld Wash | Empowering Freelance Car Wash Professionals",
+      "description": "Learn our story. We connect independent car wash professionals with customers who need reliable, professional service."
+    },
+    "hero": {
+      "title": "Building a better platform for freelance washers",
+      "subtitle": "At Bubld Wash, we believe independent professionals deserve tools that support their success, flexibility, and financial growth."
+    },
+    "story": {
+      "title": "Our Journey",
+      "items": [
+        {
+          "title": "The Beginning",
+          "body": "Bubld Wash was founded by independent car wash professionals who frustrated with complicated platforms and unfair fees. We decided to build the platform we wanted to use—transparent, fair, and focused on our success."
+        },
+        {
+          "title": "Our Mission",
+          "body": "Today, we're proud to support hundreds of freelance washers across major metro areas. Every feature we build, every decision we make, is guided by a single question: How does this help our washers earn more and work less?"
+        },
+        {
+          "title": "What Sets Us Apart",
+          "body": "No hidden fees. No long-term contracts. Just straightforward rates, real job matching, and payouts delivered within 24 hours. We treat our washers like partners, not contractors."
+        }
+      ]
+    },
+    "mission": {
+      "title": "Our Mission & Vision",
+      "items": [
+        {
+          "title": "Our Mission",
+          "body": "Empower independent car wash professionals with the technology, opportunities, and support they need to build thriving, sustainable businesses."
+        },
+        {
+          "title": "Our Vision",
+          "body": "A future where freelance washers have choice, control, and genuine partnership in platforms they work with."
+        }
+      ]
+    },
+    "values": {
+      "title": "Core Values",
+      "items": [
+        {
+          "title": "Transparency",
+          "body": "No surprises. Clear fees, honest communication, real-time tracking."
+        },
+        {
+          "title": "Fair Pay",
+          "body": "Competitive rates that respect your time and skill."
+        },
+        {
+          "title": "Flexibility",
+          "body": "Work your way. Choose jobs, set your schedule, build your business."
+        },
+        {
+          "title": "Trust",
+          "body": "We're partners in your success, not obstacles to it."
+        },
+        {
+          "title": "Community",
+          "body": "Support, resources, and connections with other professional washers."
+        },
+        {
+          "title": "Innovation",
+          "body": "Constantly improving tools and features to help you earn more."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to join the Bubld community?",
+      "subtitle": "Partner with us and start receiving local car wash jobs—no fees, no contracts, just fair pay and real opportunity.",
+      "button": "Apply now"
+    }
+  }
+}
